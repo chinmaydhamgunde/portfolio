@@ -1,0 +1,19 @@
+body {
+  background-color: #EEEEEE;
+}
+h1  {
+  color: #00ADB5;
+}
+h3  {
+  color: #F38181;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #F38181;
+  border-width: 7px;
+  width: 5%;
+}
+.hobby{
+  color: #00ADB5;
+}
